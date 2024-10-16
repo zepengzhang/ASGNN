@@ -21,7 +21,7 @@
 
 
 <div style="text-align:center">
-<img src="imgs/ASMP.pdf"  width="95%" height="100%">
+<img src="imgs/ASMP.jpg"  width="95%" height="100%">
 </div>
 </div>
 
