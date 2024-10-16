@@ -12,7 +12,17 @@
 <div>
     <sup>1</sup>EPFL, <sup>2</sup>IBM Research, <sup>3</sup> FDU, <sup>4</sup> ShanghaiTech
 </div>
+<div>
+    <h4 align="center">
+        • <a href="https://arxiv.org/abs/2210.01002" target='_blank'>IEEE Journal of Selected Topics in Signal Processing (JSTSP) 2024</a> •
+    </h4>
+</div>
 
+
+
+<div style="text-align:center">
+<img src="imgs/ASMP.pdf"  width="95%" height="100%">
+</div>
 </div>
 
 ## Abstract
