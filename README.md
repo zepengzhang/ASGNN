@@ -1,4 +1,4 @@
-# ASGNN
+
 <div align="center">
 
 <h1>Graph Neural Networks with Adaptive Structures</h1>
